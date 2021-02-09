@@ -1,0 +1,18 @@
+body {
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(220, 252, 220);  
+}
+
+#snake {
+    box-shadow: 0px 0px 8px green;
+}
+
+h1{
+    color: rgba(1, 46, 1, 0.616);
+    text-transform: uppercase;
+}
